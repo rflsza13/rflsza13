@@ -1,10 +1,11 @@
 ## Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="340" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```Kotlin
-object rflsza13 {
+public void rflsza13 {
  val name = "Rafael Souza"
+ val age = "28"
  val acknowledgements = "Web/System Development"
  
  val primarySkillset = "ALGUMAS HABILIDADES"
