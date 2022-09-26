@@ -22,12 +22,13 @@ public void rflsza13 {
  <img height="30" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
  <img height="30" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
  <img height="30" src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+</code>
+<br>
+<code>
  <img height="30" src="https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white">
  <img height="30" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white">
 </code>
-
 <br>
-
 <code>
  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
  <img height="30" src="https://user-images.githubusercontent.com/66737556/190868950-892e61fe-cd34-491d-aef0-927aafb2ef35.svg">
@@ -35,21 +36,19 @@ public void rflsza13 {
  <img height="30" src="https://user-images.githubusercontent.com/66737556/190880266-fd599c1a-efe2-49c4-ace3-c2edbc0f544a.png">
 </code>
 
-
-
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/rflsza13">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflsza13&theme=dracula&hide_langs_below=1" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/rflsza13">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rflsza13&show_icons=true&theme=dracula&line_height=33" alt="**SEU NOME** github stats"/>
 </a>
 <br>
 
 ## Redes Sociais
 
-<a href="https://www.instagram.com/rflsza13/" target="_blank"> <img height="30" src="	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
+<a href="https://www.instagram.com/rflsza13/" target="_blank"> <img height="30" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <a href="https://www.linkedin.com/in/rsouza13/" target="_blank"> <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
 <a href="mailto:rafaelrodriguessouza10@gmail.com"> <img height="30" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
