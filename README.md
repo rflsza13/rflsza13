@@ -16,7 +16,7 @@ myProfile() {
 }
 ```
 <a href="https://github.com/rflsza13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflsza13&theme=dracula&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflsza13&theme=dracula&hide_langs_below=2" />
 </a>
 
 <a href="https://github.com/rflsza13">
