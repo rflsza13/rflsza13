@@ -15,11 +15,6 @@ myProfile() {
  
 }
 ```
-<a href="https://github.com/rflsza13">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflsza13&theme=dracula&hide_langs_below=2" />
-</a>
 
-<a href="https://github.com/rflsza13">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=rflsza13&show_icons=true&theme=dracula&line_height=33" alt="Rafael Souza github stats"/>
-</a>
-<br>
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rflsza13"/>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rflsza13"/>
