@@ -6,8 +6,8 @@ class SobreMim extends Desenvolvedor {
   local = 'Capivari-SP'
 }
 class Skills extends Desenvolvedor {
-  linguagens  = ['HTML', 'CSS', 'Java', 'JavaScript'];
-  frameworks  = ['Springboot', 'Typescript'];
+  linguagens  = ['HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript'];
+  frameworks  = ['NodeJS', 'AngularJS', 'Ionic'];
 }
 ```
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rflsza13&theme=github_dark"/>
