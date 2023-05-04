@@ -2,7 +2,7 @@
 import Desenvolvedor from 'rflsza13';
 class SobreMim extends Desenvolvedor {
   nome = 'Rafael Souza'
-  idade = '28'
+  idade = '29'
   local = 'Capivari-SP'
 }
 class Skills extends Desenvolvedor {
