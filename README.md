@@ -1,11 +1,11 @@
 ```ts
 import Desenvolvedor from 'rflsza13';
-class SobreMim extends Desenvolvedor {
+class sobreMim extends Desenvolvedor {
   nome = 'Rafael Souza';
   idade = '29';
   local = 'Capivari-SP';
 }
-class Skills extends Desenvolvedor {
+class mySkills extends Desenvolvedor {
   linguagens  = ['HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript'];
   frameworks  = ['NodeJS', 'AngularJS', 'Ionic'];
 }
