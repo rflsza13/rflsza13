@@ -2,7 +2,7 @@
 import Desenvolvedor from 'rflsza13';
 class sobreMim extends Desenvolvedor {
   nome = 'Rafael Souza';
-  idade = '29';
+  idade = '30';
   local = 'Capivari-SP';
 }
 class mySkills extends Desenvolvedor {
