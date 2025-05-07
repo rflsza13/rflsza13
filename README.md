@@ -1,19 +1,23 @@
 ```ts
 import Desenvolvedor from 'rflsza13';
+
 class sobreMim extends Desenvolvedor {
-  nome = 'Rafael Souza';
-  idade = '30';
-  local = 'Capivari-SP';
-}
-class mySkills extends Desenvolvedor {
-  linguagens  = ['HTML', 'CSS', 'Java', 'JavaScript', 'TypeScript'];
-  frameworks  = ['NodeJS', 'AngularJS', 'Ionic'];
+  name = 'Rafael Souza';
+  age = '31';
+  degree = 'Análise e Desenvolvimento de Sistemas'
+  city = 'Capivari-SP';
+
 }
 ```
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rflsza13&theme=github_dark"/>
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rflsza13&theme=github_dark&hide_langs_below=1" /></td>
-    <td><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=rflsza13&&theme=github_dark"/></td>
-  </tr>
-</table>
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rflsza13&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rflsza13&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
+
+
+ 
+<div align="center" >
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,idea,javascript,typescript,java,python,c,html"/>
+  <img src="https://skillicons.dev/icons?i=css,react,angular,nodejs,postman,npm,bootstrap,mongodb,mysql,postgres,linux" />
+  <br />
+</div>
