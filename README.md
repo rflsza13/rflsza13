@@ -3,7 +3,7 @@ import Desenvolvedor from 'rflsza13';
 
 class sobreMim extends Desenvolvedor {
   name = 'Rafael Souza';
-  age = '31';
+  age = '32' ;
   degree = 'Análise e Desenvolvimento de Sistemas'
   city = 'Capivari-SP';
 
